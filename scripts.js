@@ -5,5 +5,5 @@ function aparecerFormulario() {
 }
 
 function desaparecerFormulario() {
-    formulario.style.left = "-50%"
+    formulario.style.left = "-100%"
 }

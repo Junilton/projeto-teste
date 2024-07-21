@@ -114,6 +114,6 @@ button {
     width: 600px;
     height: 100px;
     z-index: 3;
-    left: -50%;
+    left: -100%;
     transition: 1.5s;
 }
